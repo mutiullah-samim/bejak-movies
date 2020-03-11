@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bejak-movies/static/css/main.1d515c38.chunk.css",
+    "main.js": "/bejak-movies/static/js/main.0dd41b7f.chunk.js",
+    "main.js.map": "/bejak-movies/static/js/main.0dd41b7f.chunk.js.map",
+    "runtime-main.js": "/bejak-movies/static/js/runtime-main.9f5e0886.js",
+    "runtime-main.js.map": "/bejak-movies/static/js/runtime-main.9f5e0886.js.map",
+    "static/css/2.e4708966.chunk.css": "/bejak-movies/static/css/2.e4708966.chunk.css",
+    "static/js/2.538df52e.chunk.js": "/bejak-movies/static/js/2.538df52e.chunk.js",
+    "static/js/2.538df52e.chunk.js.map": "/bejak-movies/static/js/2.538df52e.chunk.js.map",
+    "index.html": "/bejak-movies/index.html",
+    "precache-manifest.72d11534f8aeb288787448cce61863c2.js": "/bejak-movies/precache-manifest.72d11534f8aeb288787448cce61863c2.js",
+    "service-worker.js": "/bejak-movies/service-worker.js",
+    "static/css/2.e4708966.chunk.css.map": "/bejak-movies/static/css/2.e4708966.chunk.css.map",
+    "static/css/main.1d515c38.chunk.css.map": "/bejak-movies/static/css/main.1d515c38.chunk.css.map",
+    "static/js/2.538df52e.chunk.js.LICENSE.txt": "/bejak-movies/static/js/2.538df52e.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/bejak-movies/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f5e0886.js",
+    "static/css/2.e4708966.chunk.css",
+    "static/js/2.538df52e.chunk.js",
+    "static/css/main.1d515c38.chunk.css",
+    "static/js/main.0dd41b7f.chunk.js"
+  ]
+}
